@@ -11,7 +11,7 @@
         android:id="@+id/scoreTextView"
         android:layout_width="318dp"
         android:layout_height="143dp"
-        android:text="Your Score: 0/5"
+        android:text="Your Score is: 0/5"
         android:textColor="@color/white"
         android:textSize="24sp"
         android:textStyle="bold"
