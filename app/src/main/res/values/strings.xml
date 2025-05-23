@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application osamah</string>
+    <string name="welcome_to_the_flash_card_game">Welcome to the flash card game</string>
+    <string name="back">Back</string>
+</resources>
